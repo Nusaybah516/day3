@@ -71,3 +71,9 @@ button{
     margin-left: auto;
     margin-right: auto;
 }
+
+a:link{
+    color: black;
+    background-color: cornflowerblue;
+    text-decoration: none;
+}
