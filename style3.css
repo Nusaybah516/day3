@@ -1,3 +1,9 @@
+body{
+    background-image:url("palm\ picture\ \(1\).jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300vh;
+}
 
 
 h1{
@@ -69,6 +75,6 @@ button{
 
 a:link{
     color: black;
-    background-color: cornflowerblue;
+    background-color: white;
     text-decoration: none;
 }
